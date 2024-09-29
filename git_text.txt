@@ -5,5 +5,5 @@ Awatif (ID: 1090375)
 -Demonstrating the use of Git commands such as branch, fork, merge, pull, push, commit, and fetch.
 
 this is a sample change in this file
-vhbdlfvhbdfvkj
-vkdhfnvlhknvdlkfjnvhfbv 
+=
+this This is a change in the master branch.
